@@ -1,0 +1,9 @@
+-----------------------
+| A S C I I A r t 1 7 |
+-----------------------
+Please, enter a command:
+Virheellinen syöte!
+Virheellinen syöte!
+Virheellinen syöte!
+Virheellinen syöte!
+Virheellinen syöte!

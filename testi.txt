@@ -1,0 +1,10 @@
+jdfoigjdofigjdofiagjdafiogf
+
+
+<<<<<<< HEAD
+adfgadsff213234245
+=======
+adfgadsff
+
+krogkerpogaeprog
+>>>>>>> ed2e5488b4b33fc753bfbd8b3c1303d6b773583e
